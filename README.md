@@ -6,6 +6,7 @@
 #### BANGLADESH 11 DIGIT CLONER 🇧🇩
 ```python
 $ apt update && apt upgrade
+$ rm -rf BD-11-DIGIT
 $ apt install python2
 $ pip2 install lolcat
 $ pip2 install mechanize
