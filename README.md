@@ -16,7 +16,7 @@ $ git clone https://github.com/Naim75o/BD-11-DIGIT
 #### RUN SCRIPT
 ```python
 $ cd BD-11-DIGIT
-$ python FLAME-11.py
+$ python2 FLAME-11.py
 
 
 
